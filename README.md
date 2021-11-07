@@ -2,7 +2,7 @@
 
 St. Clair College, CANADA
 
-DAB103_Group09
+DAB103_Group_09
 
 This project DAB 103 is created by five college students.
 
